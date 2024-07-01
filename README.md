@@ -1,5 +1,5 @@
 # Self-hyperparameter-tuning
-SUPSI - WP4
+SUPSI - WP4 - T4.4
 
 ## Requirements
 
