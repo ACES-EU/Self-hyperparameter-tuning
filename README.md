@@ -18,3 +18,6 @@ SUPSI - WP4
 2. Specify local objectives for each agant in the MATLAB script 'benchmark_MPC_calibration.m'.
 3. Run Python script 'main_MPC.py' to launch the D-GLIS algorithm for solving the distributed MPC calibration problem.
 4. Run Python script 'plot_solutions_MPC.py' to print/plot results and additional information.
+
+## To Read
+- https://ieeexplore.ieee.org/abstract/document/10107979
